@@ -1,0 +1,20 @@
+# owolabi_daniel_301922770
+ MIT8103 Advanced Database Systems
+
+# MIT 8103 Advanced Database Systems Portfolio
+
+Name: Owolabi Daniel
+
+Student ID: 301922770 
+
+## Case study
+
+Bank / Fintech Platform
+
+## Portfolio folders
+
+- portfolio-1-database-design: design, schema and normalisation.
+- portfolio-2-query-optimisation: queries, plans and performance analysis.
+- portfolio-3-transactions-concurrency: commit, rollback and concurrency.
+- portfolio-4-nosql: NoSQL model, implementation and suitability.
+- portfolio-5-distributed-cloud: distributed or cloud database exercise.
