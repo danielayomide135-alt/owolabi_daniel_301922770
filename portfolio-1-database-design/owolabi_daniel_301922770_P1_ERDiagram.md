@@ -62,3 +62,16 @@ erDiagram
         varchar loan_status
         date application_date
     }
+```
+
+- **PK** identifies one record. **FK** links to another table. **UK** means a value is unique.
+- `||` means exactly one. `o{` means zero or many.
+- A customer can have zero or many accounts. Each account belongs to one customer.
+- An employee can manage zero or many accounts. Each account can be associated with an employee.
+- An account can have zero or many transactions. Each transaction belongs to one account.
+- A transaction can have zero or many deposits, withdrawals, or loans (depending on its type). Each deposit, withdrawal, or loan refers to one transaction.
+
+For example, account ALAP-110 can receive a deposit in February and another in March. These are separate transaction and deposit records.
+
+All core fields are required as specified by the NOT NULL constraints in your schema. The diagram shows the transaction history and structural relationships; specific validation rules like non-negative amounts, positive loan terms, and unique active loan indices are enforced via table constraints and partial unique indexes in your database design.
+
