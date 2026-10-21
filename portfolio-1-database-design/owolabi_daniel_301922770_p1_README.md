@@ -35,13 +35,13 @@ Register account, deposit money, withdraw money, issue a loan, record the return
 
 | File | Contents |
 | --- | --- |
-| [Design](portfolio-1-database-design/owolabi_daniel_301922770_P1_Design.md) | Entities, attributes, keys and relationships. |
-| [ER diagram](portfolio-1-database-design/owolabi_daniel_301922770_P1_ERDiagram.md) | The seven tables and  six relationships. |
-| [Normalisation](portfolio-1-database-design/owolabi_daniel_301922770_P1_Normalisation.md) | Example tables showing 1NF, 2NF and 3NF. |
-| [Schema](portfolio-1-database-design/owolabi_daniel_301922770_P1_Schema.sql) | Table definitions, keys and constraints. |
-| [Sample records](portfolio-1-database-design/owolabi_daniel_301922770_P1_SampleData.sql) | Fictional customer,employee,account,transaction,withdrawal,deposit and loans. |
-| [Constraint tests](portfolio-1-database-design/owolabi_daniel_301922770_P1_ConstraintTests.sql) | eight Invalid inserts and the final count query. |
-| [Evidence](portfolio-1-database-design/owolabi_daniel_301922770_P1_Evidence.md) | Links to the screenshots stored in screenshots/. |
+| [Design](owolabi_daniel_301922770_P1_Design.md) | Entities, attributes, keys and relationships. |
+| [ER diagram](owolabi_daniel_301922770_P1_ERDiagram.md) | The seven tables and  six relationships. |
+| [Normalisation](owolabi_daniel_301922770_P1_Normalisation.md) | Example tables showing 1NF, 2NF and 3NF. |
+| [Schema](owolabi_daniel_301922770_P1_Schema.sql) | Table definitions, keys and constraints. |
+| [Sample records](owolabi_daniel_301922770_P1_SampleData.sql) | Fictional customer,employee,account,transaction,withdrawal,deposit and loans. |
+| [Constraint tests](owolabi_daniel_301922770_P1_ConstraintTests.sql) | eight Invalid inserts and the final count query. |
+| [Evidence](owolabi_daniel_301922770_P1_Evidence.md) | Links to the screenshots stored in screenshots/. |
 
 
 ## Implementation
