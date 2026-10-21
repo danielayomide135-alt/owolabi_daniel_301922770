@@ -16,4 +16,4 @@ COMMIT saves transaction changes permanently, while ROLLBACK discards uncommitte
 - [Commit and rollback SQL](owolabi_daniel_301922770_P3_Transactions.sql)
 - [Session A SQL](owolabi_daniel_301922770_P3_SessionA.sql)
 - [Session B SQL](owolabi_daniel_301922770_P3_SessionB.sql)
-- [Screenshots](portfolio-3-transactions-concurrency/screenshot): CommitRollback, Sessions A, Session B and ConcurrencyResult.
+- [Screenshots](/screenshot): CommitRollback, Sessions A, Session B and ConcurrencyResult.
